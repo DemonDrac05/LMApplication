@@ -1,0 +1,12 @@
+C:\Users\Owner\Documents\Visual Studio 2022\CodeCSharp\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\Users\Owner\Documents\Visual Studio 2022\CodeCSharp\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\Users\Owner\Documents\Visual Studio 2022\CodeCSharp\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\CodeCSharp\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2022\CodeCSharp\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2022\CodeCSharp\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\Visual Studio 2022\CodeCSharp\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2022\CodeCSharp\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\Users\Owner\Documents\Visual Studio 2022\CodeCSharp\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\CodeCSharp\LibraryManagement\obj\Debug\LibraryManagement.InterfaceForm.resources
+C:\Users\Owner\Documents\Visual Studio 2022\CodeCSharp\LibraryManagement\obj\Debug\LibraryManagement.LoginForm.resources
+C:\Users\Owner\Documents\Visual Studio 2022\CodeCSharp\LibraryManagement\obj\Debug\LibraryManagement.Form1.resources
